@@ -13,3 +13,4 @@ userB Tu add1.
 userA Tu add1.
 
 rebase test master.
+rebase test feature.
