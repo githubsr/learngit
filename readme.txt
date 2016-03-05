@@ -12,5 +12,4 @@ userB add 2
 userB Tu add1.
 userA Tu add1.
 
-rebase test2 feature.
-rebase test2 master.
+rebase test3 master.
